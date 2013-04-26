@@ -1,0 +1,28 @@
+#content {
+  margin: 5px;
+	padding: 5px;
+	border: 1px solid #0a0;
+	width: 200px;
+}
+
+.jinx-collection-view {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #00a;
+}
+
+.jinx-view {
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid #a00;
+	cursor: pointer;
+}
+
+.jinx-view p {
+	margin: 0;
+	padding: 0;
+}
+
+.blushing {
+	background-color: #ffdddd;
+}
